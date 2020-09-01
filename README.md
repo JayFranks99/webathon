@@ -2,6 +2,6 @@
 
 Website url: https://jayfranks.co.uk/webathon
 
-Wordpress backend -
+WordPress backend -
 Username:jayfranks-champions
 Password:ChampionsJayFranks99
